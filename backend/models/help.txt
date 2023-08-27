@@ -1,1 +1,0 @@
-// mongoose.connect('mongodb+srv://barmecha99:h9TF6RWvTMz1q0hc@cluster100.bxxugoy.mongodb.net/?retryWrites=true&w=majority');
